@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Softtek as Software Tester Engineer <br>👯 I’m looking to collaborate on with other Testers and Programmer<br>🤝 I’m looking for help with coding because i'm looking to move from  Functional to Automation<br>🌱 I’m currently learning Java, Selenium and TestNG<br>💬 Ask me about Testing.<br>⚡ Fun fact i start my career working on call centers but luck and hard work got me here.
+🔭 I’m currently working at Softtek as Software Tester Engineer <br>👯 I’m looking to collaborate on with other Testers and Programmer<br>🤝 I’m looking for help with coding because i'm looking to move from  Functional to Automation<br>🌱 I’m currently learning Java, Selenium and TestNG<br>💬 Ask me about Testing.<br>⚡ Fun fact i start my career working on call centers but luck and hard work got me here.
 
 
 ## 🌐 Socials:
